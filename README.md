@@ -1,4 +1,4 @@
-# MLSC BSIOT : Awesome Leadership, Management & Personal Development 
+# MLSC BSIOR : Awesome Leadership, Management & Personal Development 
 
 ### Take control of your time [https://drive.google.com/file/d/1_fviW7UrM7GDknYbgIfLyFVUaFl40yBj/view?usp=sharing]
 
