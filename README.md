@@ -1,19 +1,5 @@
 # MLSC BSIOT : Awesome Leadership, Management & Personal Development 
 
-## What This Is, and Where It Comes From
-Since 2013-ish, [Joe Goldberg](https://twitter.com/tenaciousjoe), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
-
-In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's former colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](CONTRIBUTING.md) from people around the world.
-
-- "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
-- "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
-- "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
-
-### Quotes That Capture the General Spirit of this List's Contents
-- "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton
-- "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan
-- "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317) 
-
 ## Contents
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
